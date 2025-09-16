@@ -1,2 +1,4 @@
 Archive of old OpenEMS bundles not used anymore. 
 
+Note: This is not the official OpenEMS Repository Archive. To see the official OpenEMS Repository archive have a look at [OpenEMS/openems-archive](https://github.com/OpenEMS/openems-archive)
+
