@@ -1,0 +1,22 @@
+= Solarwatt MyReserve (Read Only)
+
+implementation of the Solarwatt MyReserve storage system (read only, access via REST api)
+
+Implemented Natures::
+- SymmetricEss
+
+
+== Compatibility 
+* Solarwatt MyReserve
+
+== Application Notes
+
+* this bundle supports only read only mode
+
+=== Code Quality
+Production State: *for private usage only* 
+
+Development State:
+* rookie driver 
+
+https://github.com/OpenEMS/openems/tree/develop/io.openems.edge.ess.solarwatt.myreserve[Source Code icon:github[]]
