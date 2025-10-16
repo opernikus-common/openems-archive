@@ -1,0 +1,20 @@
+= EvCharger Alfen 
+
+Implementation of the Alfen EvCharger charging station.
+
+== Compatibility
+
+** Eve Single S-line
+** Eve Single Pro-line
+** Eve Double Pro-line
+
+
+
+== Code Quality
+ 
+Production State: *pilot projects* 
+
+ Please consider it BETA quality
+
+
+https://github.com/OpenEMS/openems/tree/develop/io.openems.edge.evcharger.alfen[Source Code icon:github[]]
